@@ -7,6 +7,20 @@
 With a strong foundation in programming languages such as Python, C++, and Java, I've developed a keen eye for problem-solving and analytical thinking. 
 Currently, I’m actively seeking opportunities in software engineering and artificial intelligence, and I’m eager to connect with others passionate about leveraging technology for impactful solutions.
 
+### 🎯Featured Project: Automated Dashboard Conversion Tool
+* What we did: Develop an AI model that converts Juypter Notebooks into dashboards of data to simplify visualization for researchers. 
+* Tools: Ollama models, Streamlit, IPywidgets
+* Result: Improved dashboard conversions due to model prompting and few shot learning
+
+### 🛠 Tech Stach:
+* Languages: Python, C++, Java
+* Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+* Tools: Jupyter Notebooks, Google Colab, Git, GitHub
+
+### 📫 How to reach me:
+* Email: anikaguin@gmail.com
+* LinkedIn: www.linkedin.com/in/anika-guin
+
 <!--
 **anikaguin/anikaguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
