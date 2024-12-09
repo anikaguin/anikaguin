@@ -4,6 +4,9 @@
 
 ### 🔭 Looking for opportunities in software engineering and artificial intelligence
 
+With a strong foundation in programming languages such as Python, C++, and Java, I've developed a keen eye for problem-solving and analytical thinking. 
+Currently, I’m actively seeking opportunities in software engineering and artificial intelligence, and I’m eager to connect with others passionate about leveraging technology for impactful solutions.
+
 <!--
 **anikaguin/anikaguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
