@@ -1,7 +1,8 @@
-#👋 Hi, I'm Anika!
-##🎓Junior at the University of Texas at Dallas, studying Computer Science
-##🔭 Looking for opportunities in software engineering and artificial intelligence
+# 👋 Hi, I'm Anika!
 
+## 🎓 Junior at the University of Texas at Dallas, studying Computer Science
+
+## 🔭 Looking for opportunities in software engineering and artificial intelligence
 
 <!--
 **anikaguin/anikaguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
