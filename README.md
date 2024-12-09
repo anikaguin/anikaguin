@@ -11,6 +11,7 @@ Currently, I’m actively seeking opportunities in software engineering and arti
 * What we did: Develop an AI model that converts Juypter Notebooks into dashboards of data to simplify visualization for researchers. 
 * Tools: Ollama models, Streamlit, IPywidgets
 * Result: Improved dashboard conversions due to model prompting and few shot learning
+  
 Curious? See the full project [here](https://github.com/anikaguin/Axle-Informatics)
 
 ### 🛠 Tech Stach:
