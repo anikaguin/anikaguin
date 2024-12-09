@@ -17,6 +17,17 @@ Currently, I’m actively seeking opportunities in software engineering and arti
 * Data Science: Pandas, NumPy, scikit-learn, TensorFlow
 * Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 
+### 🚀 Projects:
+A few other noteworthy projects I’ve worked on:
+1. Photography Mentor:
+   Developed to assist people in talking better pictures by looking at framing and positioning
+   * Tech Stack: Python, Flask, OpenCV, Mediapipe
+   * Learnings: App development and using artificial intelligence to detect pose coordinates
+2. SIP:
+   Developed a web application that automatically tracks a user's water intake
+   * Tech Stack: Python, Raspberry Pi, Load cell, HTML, CSS
+   * Learnings: Reading sensor data and sending it to a web application
+
 ### 📫 How to reach me:
 * Email: anikaguin@gmail.com
 * LinkedIn: www.linkedin.com/in/anika-guin
