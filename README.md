@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Anika!
 
-### 🎓 Junior at the University of Texas at Dallas, studying Computer Science
+### 🎓 Student at the University of Texas at Dallas, studying Computer Science
 
 ### 🔭 Looking for opportunities in software engineering and artificial intelligence
 
